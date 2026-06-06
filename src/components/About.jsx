@@ -30,7 +30,7 @@ export default function AboutMe() {
           className="flex justify-center my-3.5"
         >
           <Image
-            src="/Photo.png"
+            src="/photo.png"
             alt="Rohit Kumar"
             width={250}
             height={100}
